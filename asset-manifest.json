@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Kaushal_PORT_NEW/static/css/main.ad500751.css",
-    "main.js": "/Kaushal_PORT_NEW/static/js/main.aa9fe76b.js",
+    "main.css": "/Kaushal_PORT_NEW/static/css/main.b469adbb.css",
+    "main.js": "/Kaushal_PORT_NEW/static/js/main.86f5a59f.js",
     "static/css/487.bb36206c.chunk.css": "/Kaushal_PORT_NEW/static/css/487.bb36206c.chunk.css",
     "static/js/487.c9c51601.chunk.js": "/Kaushal_PORT_NEW/static/js/487.c9c51601.chunk.js",
     "static/css/990.c6a7ee28.chunk.css": "/Kaushal_PORT_NEW/static/css/990.c6a7ee28.chunk.css",
@@ -22,15 +22,15 @@
     "static/media/nextuLogo.webp": "/Kaushal_PORT_NEW/static/media/nextuLogo.e033dbfa4c58c0a906aa.webp",
     "index.html": "/Kaushal_PORT_NEW/index.html",
     "static/media/talksCardBack.svg": "/Kaushal_PORT_NEW/static/media/talksCardBack.73ed1545d58273ba64b0.svg",
-    "main.ad500751.css.map": "/Kaushal_PORT_NEW/static/css/main.ad500751.css.map",
-    "main.aa9fe76b.js.map": "/Kaushal_PORT_NEW/static/js/main.aa9fe76b.js.map",
+    "main.b469adbb.css.map": "/Kaushal_PORT_NEW/static/css/main.b469adbb.css.map",
+    "main.86f5a59f.js.map": "/Kaushal_PORT_NEW/static/js/main.86f5a59f.js.map",
     "487.bb36206c.chunk.css.map": "/Kaushal_PORT_NEW/static/css/487.bb36206c.chunk.css.map",
     "487.c9c51601.chunk.js.map": "/Kaushal_PORT_NEW/static/js/487.c9c51601.chunk.js.map",
     "990.c6a7ee28.chunk.css.map": "/Kaushal_PORT_NEW/static/css/990.c6a7ee28.chunk.css.map",
     "990.41d8e163.chunk.js.map": "/Kaushal_PORT_NEW/static/js/990.41d8e163.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ad500751.css",
-    "static/js/main.aa9fe76b.js"
+    "static/css/main.b469adbb.css",
+    "static/js/main.86f5a59f.js"
   ]
 }
